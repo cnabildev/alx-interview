@@ -1,15 +1,39 @@
-# Making Change
+# Project Name
+**0x08. Making Change**
 
-This project contains interview coding challenges.
+## Author's Details
+Name: *Wendy Munyasi.*
 
-## Tasks To Complete
+Email: *wendymunyasi@gmail.com*
 
-+ [x] 0. **Change comes from within**<br/>[0-making_change.py](0-making_change.py) contains a module with a function that determines the fewest number of coins needed to meet a given amount `total` when given a pile of coins of different values, with the following requirements:
-  + Prototype: `def makeChange(coins, total)`.
-  + Return: fewest number of coins needed to meet `total`.
-    + If `total` is `0` or less, return `0`.
-    + If `total` cannot be met by any number of coins you have, return `-1`.
-  + `coins` is a list of the values of the coins in your possession.
-  + The value of a coin will always be an integer greater than `0`.
-  + You can assume you have an infinite number of each denomination of coin in the list.
-  + Your solution’s runtime will be evaluated in this task.
+Tel: *+254707240068.*
+
+##  Requirements
+
+### Python Scripts
+*   Allowed editors: `vi`, `vim`, `emacs`.
+*   All your files will be interpreted/compiled on Ubuntu 20.04 LTS using gcc, using python3 (version 3.8.5).
+*   All your files should end with a new line.
+*   The `main.py` files are used to test your functions, but you don’t have to push them to your repo.
+*   The first line of all your files should be exactly `#!/usr/bin/python3`.
+*   Your code should use the pycodestyle (version `2.8.*`).
+*   All your files must be executable.
+*   All your modules should have a documentation (`python3 -c 'print(__import__("my_module").__doc__)'`).
+*   All your functions (inside and outside a class) should have a documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)`' and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`).
+*   A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified).
+
+
+## Project Description
+
+* **0. Change comes from within** - Given a pile of coins of different values, determine the fewest number of coins needed to meet a given amount `total`. - `0-making_change.py`.
+
+    ```
+    jessevhedden$ ./main_0.py
+    7
+    -1
+    ```
+---
+
+## Collaborate
+
+To collaborate, reach me through my email address wendymunyasi@gmail.com.
